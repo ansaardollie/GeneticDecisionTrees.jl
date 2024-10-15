@@ -1,0 +1,13 @@
+name = "GeneticDecisionTrees"
+uuid = "1260b78f-3c94-4fa7-ab17-9a19e0c2deb1"
+authors = ["Ansaar Dollie <me@ansaardollie.com>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

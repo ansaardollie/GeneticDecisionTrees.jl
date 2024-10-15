@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GeneticDecisionTrees = "1260b78f-3c94-4fa7-ab17-9a19e0c2deb1"
